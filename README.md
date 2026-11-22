@@ -37,3 +37,10 @@
 * **Lists:** Ordered, mutable collections used to store and manipulate datasets.
 * **Loops (`for` / `while`):** Automating repetitive operations across sequences.
 * **Functions (`def`):** Modularizing reusable logic with parameters and return values.
+
+---
+
+# Module 02: Python Mini Project — Student Grade Calculator
+**Duration:** Day 5 – Day 8  
+* Built a menu-driven CLI **Student Grade Calculator** (`student_grade_calculator.py`) using functions, lists, dictionaries, conditionals, and loops.
+* Calculates total marks, overall percentage, and letter grades (`A+` to `F`) for multiple students.
